@@ -1,4 +1,6 @@
 ## react-flex-layout
+
+[![Join the chat at https://gitter.im/AdaptiveConsulting/react-flex-layout](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdaptiveConsulting/react-flex-layout?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 react-flex-layout combines ideas from [react-split-pane](https://github.com/tomkp/react-split-pane) and [react-layout](https://github.com/jsdf/react-layout) into a single project which has good browser compatibility
 
 ### Demo
